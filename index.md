@@ -1,4 +1,4 @@
-## Bienvenu sur le site de Salim
+## Bienvenue sur le site de Salim
 
 You can use the [editor on GitHub](https://github.com/Salimpossible/megasite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
